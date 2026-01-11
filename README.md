@@ -87,8 +87,8 @@ I consistently deliver **scalable, secure, production-ready systems** with measu
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitsahani174&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsahani174&theme=tokyonight" height="165"/>
 </p>
 
 ---
