@@ -1,5 +1,148 @@
-# 💫 About Me:
-👋 Hi, I’m Sumit Sahani<br>🚀 Full-Stack Developer | .NET Core | React.js | Azure<br><br>📍 Mumbai, India<br>📧 Email: sumitsahani174@gmail.com<br><br>📞 Phone: +91-9004844180<br>🔗 LinkedIn: linkedin.com/in/sumit-sahani-100b1121b<br><br>🧑‍💻 About Me<br><br>I’m a Full-Stack .NET Developer with 6+ years of experience in designing, developing, and deploying enterprise-scale, high-performance web applications.<br><br>I specialize in .NET Core, ASP.NET Core, React.js, Node.js, and cloud-native microservices architecture on Microsoft Azure. I have strong expertise in API development, database optimization, caching, messaging systems, and DevOps automation.<br><br>I’ve consistently delivered scalable, secure, and production-ready solutions with measurable business impact while working in Agile/Scrum environments. <br><br><br>🛠️ Tech Stack<br>👨‍💻 Programming & Frameworks<br><br>C#<br><br>.NET Core (3.1 / 6 / 7 / 8)<br><br>ASP.NET Core<br><br>JavaScript / TypeScript<br><br>React.js<br><br>Node.js<br><br>🌐 Web & API Development<br><br>RESTful APIs<br><br>Microservices Architecture<br><br>WebSockets<br><br>JSON<br><br>Swagger / OpenAPI<br><br>GraphQL<br><br>☁️ Cloud & DevOps<br><br>Microsoft Azure (App Services, Azure Functions)<br><br>Azure Kubernetes Service (AKS)<br><br>Docker & Kubernetes<br><br>Azure DevOps CI/CD<br><br>Git<br><br>🗄️ Databases<br><br>SQL Server<br><br>Oracle<br><br>PostgreSQL<br><br>MongoDB (NoSQL)<br><br>⚡ Messaging & Caching<br><br>Redis<br><br>Kafka<br><br>🏗️ Architecture & Design<br><br>HLD & LLD<br><br>MVC, Repository Pattern<br><br>Domain-Driven Design (DDD)<br><br>🔐 Security<br><br>JWT Authentication<br><br>OAuth2<br><br>API Security Best Practices<br><br>🧪 Testing & Agile Tools<br><br>Jira<br><br>Test-Driven Development (TDD)<br><br>Postman<br><br>xUnit<br><br>💼 Professional Experience<br>🏢 HDFC ERGO General Insurance – Mumbai<br><br>Full-Stack Developer (.NET Core, React.js, Azure)<br>📅 2022 – Present<br><br>Designed and deployed cloud-native microservices using .NET Core 6, React.js, and AKS.<br><br>Reduced policy processing time by 50% using Redis caching and optimized workflows.<br><br>Integrated multiple third-party APIs for policy issuance and claims management.<br><br>Improved database performance by 35% (Oracle & PostgreSQL) via indexing and query optimization.<br><br>Automated deployments using Azure DevOps pipelines, reducing release cycles by 45%.<br><br>Key Project: Fire Insurance Product (BGR) serving 5,000+ active users with zero downtime.<br><br>Tech Stack:<br>.NET Core 6 · React.js · Azure · AKS · Oracle · PostgreSQL · Redis · Kafka · Docker · Git <br><br>ResumeSumit_Sahanni<br><br>🏢 Thyrocare Technologies Ltd.<br><br>Full-Stack Developer (.NET Core + React.js)<br>📅 2019 – 2022<br><br>Led an Agile team of 4 developers delivering healthcare platforms with 99.9% uptime.<br><br>Built scalable APIs handling 10,000+ daily users with JWT authentication.<br><br>Reduced booking transaction time by 60% using workflow and caching optimizations.<br><br>Authored HLD & LLD documentation for maintainable and scalable systems.<br><br>Improved API response times by 40% via SQL Server query tuning.<br><br>Key Projects<br><br>DSA Booking Portal: 10,000+ daily bookings, 99.8% uptime<br><br>RT-PCR Test App: 15,000+ daily COVID bookings<br><br>Healthcare API Suite: 25+ APIs with enhanced security & performance<br><br>Tech Stack:<br>.NET Core 3.1 · ASP.NET 4.6 · SQL Server · PostgreSQL · React.js · Swagger · JWT · Redis · Azure <br><br>ResumeSumit_Sahanni<br><br>🎓 Education<br><br>Bachelor of Science (B.Sc.) – Information Technology<br>Chetana's Institute of Management & Research, Mumbai<br>📅 2015 – 2018 <br><br>ResumeSumit_Sahanni<br><br>🏆 Achievements & Recognition<br><br>🏅 SPARKLE 2024 – Certificate of Appreciation (HDFC ERGO) – Engg Champ<br><br>Improved API performance by 40% using caching & indexing<br><br>Delivered projects 20% ahead of schedule<br><br>Mentored Agile teams to improve velocity and code quality<br><br>Designed and deployed real-time COVID-19 booking systems integrated with hospitals & labs <br><br>ResumeSumit_Sahanni<br><br>📜 Certifications<br><br>Scaler Masterclass (June 2025) – Designing Seamless Notification Services (System Design)<br><br>SQL Using AI Workshop (July 2025) – AI-powered SQL optimization<br><br>AI Tools Workshop (June 2025) – Business automation & productivity <br><br>ResumeSumit_Sahanni<br><br>🎯 Interests<br><br>🎵 Music<br><br>🎮 Gaming<br><br>♟️ Chess
+# 💫 About Me
+
+👋 Hi, I’m **Sumit Sahani**  
+🚀 **Full-Stack Developer | .NET Core | React.js | Azure**
+
+📍 Mumbai, India  
+📧 **Email:** sumitsahani174@gmail.com  
+📞 **Phone:** +91-9004844180  
+🔗 **LinkedIn:** [linkedin.com/in/sumit-sahani-100b1121b](https://www.linkedin.com/in/sumit-sahani-100b1121b)
+
+---
+
+### 🧑‍💻 Professional Summary
+
+Full-Stack .NET Developer with **6+ years of experience** in designing, developing, and deploying **enterprise-scale, high-performance web applications**.
+
+Specialized in **.NET Core, ASP.NET Core, React.js, Node.js**, and **cloud-native microservices on Microsoft Azure**. Strong expertise in **API development, database optimization, caching strategies, messaging systems**, and **DevOps automation**.
+
+Consistently delivering **scalable, secure, and production-ready solutions** with measurable business impact in **Agile / Scrum environments**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Frameworks
+- C#
+- .NET Core (3.1 / 6 / 7 / 8)
+- ASP.NET Core
+- JavaScript / TypeScript
+- React.js
+- Node.js
+
+### 🌐 Web & API Development
+- RESTful APIs
+- Microservices Architecture
+- WebSockets
+- JSON
+- Swagger / OpenAPI
+- GraphQL
+
+### ☁️ Cloud & DevOps
+- Microsoft Azure (App Services, Azure Functions)
+- Azure Kubernetes Service (AKS)
+- Docker & Kubernetes
+- Azure DevOps CI/CD
+- Git
+
+### 🗄️ Databases
+- SQL Server
+- Oracle
+- PostgreSQL
+- MongoDB (NoSQL)
+
+### ⚡ Messaging & Caching
+- Redis
+- Kafka
+
+### 🏗️ Architecture & Design
+- High-Level & Low-Level Design (HLD / LLD)
+- MVC & Repository Pattern
+- Domain-Driven Design (DDD)
+
+### 🔐 Security
+- JWT Authentication
+- OAuth2
+- API Security Best Practices
+
+### 🧪 Testing & Agile Tools
+- Jira
+- Test-Driven Development (TDD)
+- Postman
+- xUnit
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 HDFC ERGO General Insurance — Mumbai  
+**Full-Stack Developer (.NET Core, React.js, Azure)**  
+📅 *2022 – Present*
+
+- Designed and deployed **cloud-native microservices** using .NET Core 6, React.js, and AKS
+- Reduced **policy processing time by 50%** using Redis caching and optimized workflows
+- Integrated multiple **third-party APIs** for policy issuance and claims management
+- Improved **database performance by 35%** (Oracle & PostgreSQL) through indexing and query optimization
+- Automated deployments using **Azure DevOps pipelines**, reducing release cycles by 45%
+- **Key Project:** Fire Insurance Product (BGR) serving **5,000+ active users** with zero downtime
+
+**Tech Stack:**  
+`.NET Core 6 · React.js · Azure · AKS · Oracle · PostgreSQL · Redis · Kafka · Docker · Git`
+
+---
+
+### 🏢 Thyrocare Technologies Ltd.  
+**Full-Stack Developer (.NET Core + React.js)**  
+📅 *2019 – 2022*
+
+- Led an **Agile team of 4 developers**, delivering healthcare platforms with **99.9% uptime**
+- Built scalable APIs handling **10,000+ daily users** with JWT authentication
+- Reduced booking transaction time by **60%** through workflow and caching optimizations
+- Authored **HLD & LLD documentation** for maintainable system design
+- Improved API response times by **40%** via SQL Server query tuning
+
+**Key Projects**
+- **DSA Booking Portal:** 10,000+ daily bookings, 99.8% uptime
+- **RT-PCR Test App:** 15,000+ daily COVID-19 bookings
+- **Healthcare API Suite:** 25+ APIs with enhanced security & performance
+
+**Tech Stack:**  
+`.NET Core 3.1 · ASP.NET 4.6 · SQL Server · PostgreSQL · React.js · Swagger · JWT · Redis · Azure`
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science (B.Sc.) — Information Technology**  
+Chetana's Institute of Management & Research, Mumbai  
+📅 *2015 – 2018*
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🏅 **SPARKLE 2024 – Certificate of Appreciation (HDFC ERGO)** — *Engg Champ*
+- Improved API performance by **40%** using caching & indexing
+- Delivered projects **20% ahead of schedule**
+- Mentored Agile teams to improve **velocity and code quality**
+- Designed and deployed **real-time COVID-19 booking systems** integrated with hospitals & labs
+
+---
+
+## 📜 Certifications
+
+- **Scaler Masterclass (June 2025)** — Designing Seamless Notification Services (System Design)
+- **SQL Using AI Workshop (July 2025)** — AI-powered SQL optimization
+- **AI Tools Workshop (June 2025)** — Business automation & productivity
+
+---
+
+## 🎯 Interests
+
+- 🎵 Music  
+- 🎮 Gaming  
+- ♟️ Chess
+
 
 
 ## 🌐 Socials:
