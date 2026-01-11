@@ -68,7 +68,7 @@ I consistently deliver **scalable, secure, production-ready systems** with measu
 
 ---
 
-## 💼 Professional Experience (Recruiter-Optimized)
+## 💼 Professional Experience
 
 ### 🏢 HDFC ERGO General Insurance (2022 – Present)
 **Full-Stack Developer | .NET Core | React | Azure**
