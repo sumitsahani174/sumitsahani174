@@ -30,7 +30,7 @@ I consistently deliver **scalable, secure, production-ready systems** with measu
 
 ---
 
-## 🛠️ Tech Stack (Badge-Based)
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
