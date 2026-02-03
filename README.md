@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Sumit%20Sahani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 Full-Stack Developer | .NET Core | React.js | Azure</h3>
+<h3 align="center">🚀 Full-Stack Developer | .NET Core | React.js | Multi Cloud(Azure/GCP/VM)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-sahani-100b1121b/" target="_blank">
