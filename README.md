@@ -25,12 +25,12 @@
 
 ## 💫 About Me
 
-👋 Hey! I'm **Sumit Sahani**, a **Senior Full-Stack Developer & AWS Cloud Engineer (7+ years)** building **high-scale, distributed, cloud-native systems**.
+👋 Hey! I'm **Sumit Sahani**, a **Senior Full-Stack Developer & AWS Cloud Engineer with 7+ years of experience** building **scalable, high-availability distributed systems**.
 
 💡 I specialize in:
 
 * ⚙️ **.NET Core, ASP.NET Core, React.js**
-* ☁️ **AWS Cloud (EC2, ECS, Lambda, S3, SQS, SNS)**
+* ☁️ **AWS Cloud (EC2, ECS, Lambda, API Gateway, S3, SQS, SNS)**
 * 🧠 **System Design (HLD/LLD) & Microservices Architecture**
 
 📈 Impact I’ve delivered:
@@ -42,6 +42,8 @@
 🤖 **AI-first Developer**:
 
 * GitHub Copilot • Claude Code • Anti Gravity • n8n • Cursor AI
+
+📍 Mumbai, India
 
 ---
 
@@ -81,22 +83,62 @@
 
 ## 🧠 What I Do Best
 
-✔️ Design **scalable microservices architecture**
-✔️ Build **high-performance REST APIs**
-✔️ Optimize systems using **Redis, Kafka, async messaging**
-✔️ Architect **cloud-native AWS solutions**
-✔️ Implement **CI/CD pipelines (DevOps-first approach)**
-✔️ Apply **TDD & clean architecture principles**
+✔️ Design scalable microservices architecture
+✔️ Build high-performance REST APIs
+✔️ Optimize systems using Redis, Kafka, async messaging
+✔️ Architect AWS cloud-native solutions
+✔️ Implement CI/CD pipelines
+✔️ Apply TDD & clean architecture
 
 ---
 
 ## 🏆 Achievements
 
 🏅 **SPARKLE 2024 – Engineering Champion (HDFC ERGO)**
-📈 Improved system performance by **40%+ enterprise-wide**
+📈 Improved system performance by **40%+**
 ⚡ Delivered projects **20% ahead of schedule**
 👨‍🏫 Mentored teams → **25% faster sprint velocity**
-🚀 Built **national-scale COVID booking platform**
+🚀 Built nationwide COVID booking platform
+
+---
+
+## 🧠 System Design & Architecture
+
+### ☁️ AWS Microservices Architecture
+
+<p align="center">
+  <img src="https://sketchboard.me/U3H2Yh3d4kZx.png" width="800"/>
+</p>
+
+### 🔹 Architecture Overview
+
+* 🌐 API Gateway → Entry point
+* ⚙️ ECS / Lambda → Business logic
+* 📬 SQS / SNS → Async messaging
+* 🗄️ DB (PostgreSQL / Oracle)
+* ⚡ Redis → Caching
+* 📦 S3 → Storage
+* 🔐 IAM + VPC → Security
+
+---
+
+### 🔄 Request Flow
+
+```text
+Client → API Gateway → Load Balancer → ECS / Lambda
+       → Business Logic → DB / Cache
+       → Async → SQS/SNS → Workers
+```
+
+---
+
+### ⚡ Design Principles
+
+✔️ Scalability (Auto Scaling)
+✔️ High Availability (Multi-AZ)
+✔️ Performance (Caching + Async)
+✔️ Resilience (Retry + DLQ)
+✔️ Security (IAM + JWT)
 
 ---
 
@@ -113,21 +155,11 @@
 
 ---
 
-## 🚀 Featured Strengths
-
-🔥 High Availability Systems
-⚡ Performance Optimization Expert
-🧠 Strong in System Design (HLD/LLD)
-☁️ AWS Cloud Architecture Specialist
-🤖 AI-Driven Development Workflow
-
----
-
 ## 🎯 Currently Exploring
 
-* ⚡ Advanced System Design Patterns
-* 🤖 AI + Automation Workflows (n8n)
-* ☁️ Serverless Architectures on AWS
+* ⚡ Advanced System Design
+* 🤖 AI Automation (n8n)
+* ☁️ Serverless Architectures
 
 ---
 
